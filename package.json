@@ -1,8 +1,7 @@
 {
     "name": "drop-shared",
-    "version": "0.0.2",
+    "version": "0.0.4",
     "devDependencies": {
-        "@nestjs/mapped-types": "^0.4.0",
         "typescript": "^4.2.3"
     }
 }
