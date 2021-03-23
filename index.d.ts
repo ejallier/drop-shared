@@ -1,6 +1,4 @@
 import {CreateDropDto, UpdateDropDto} from './drop';
 
-export {
-    CreateDropDto,
-    UpdateDropDto
-}
+module.exports.CreateDropDto = CreateDropDto;
+module.exports.UpdateDropDto = UpdateDropDto;
