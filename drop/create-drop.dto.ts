@@ -1,8 +1,7 @@
-export declare class CreateDropDto {
+export class CreateDropDto {
     title: string;
     latitude: string;
     longitude: string;
     user:number;
 }
 
-// module.exports = {CreateDropDto};
