@@ -1,4 +1,8 @@
-import {CreateDropDto, UpdateDropDto} from './drop';
+import { CreateDropDto, UpdateDropDto } from "./drop";
 
-module.exports.CreateDropDto = CreateDropDto;
-module.exports.UpdateDropDto = UpdateDropDto;
+// module.exports = {
+//     CreateDropDto : CreateDropDto,
+//     UpdateDropDto : UpdateDropDto
+// }
+
+export * from './drop';
