@@ -1,1 +1,11 @@
 /node_modules
+*.js
+**/*.js
+
+*.d.ts
+**/*.d.ts
+
+*.js.map
+**/*.js.map
+
+./tsconfig.tsbuildinfo
